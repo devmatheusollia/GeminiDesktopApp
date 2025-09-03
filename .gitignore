@@ -1,0 +1,9 @@
+# Dependências
+node_modules
+
+# Build
+dist
+
+# Logs
+logs
+*.log

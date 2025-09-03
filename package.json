@@ -1,0 +1,42 @@
+{
+  "name": "geminidesktopapp",
+  "version": "1.0.0",
+  "description": "Client desktop para o Google Gemini",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devmatheusollia/geminidesktopapp"
+  },
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "keywords": [],
+  "author": "Matheus Ollia",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.0.1",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.math.geminidesktop",
+    "productName": "Gemini Desktop",
+    "win": {
+      "target": "nsis",
+      "icon": "icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": true,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "license": "license.txt",
+      "unicode": true,
+      "include": "installer.nsh"
+    }
+  },
+  "dependencies": {
+    "electron-log": "^5.4.3",
+    "electron-updater": "^6.6.2"
+  }
+}
