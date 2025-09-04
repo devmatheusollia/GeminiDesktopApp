@@ -57,4 +57,4 @@ npm run build
 
 ## Licença
 
-Este projeto é distribuído sob a Licença MIT. Veja o arquivo `license.txt` para mais detalhes.
+Este projeto é distribuído sob a Licença MIT. Veja o arquivo **[license.txt](https://github.com/devmatheusollia/GeminiDesktopApp/blob/main/license.txt)** para mais detalhes.
