@@ -11,7 +11,8 @@ log.info('App starting...');
 const createWindow = () => {
   const mainWindow = new BrowserWindow({
     width: 1280,
-    height: 800
+    height: 800,
+    autoHideMenuBar: true
   });
 
   session.defaultSession.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36');
