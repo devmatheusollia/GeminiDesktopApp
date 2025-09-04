@@ -10,6 +10,8 @@ Uma aplicação de desktop nativa para o Google Gemini, criada com Electron.js.
 
 Este projeto é um cliente de desktop para o Google Gemini, desenvolvido para oferecer um acesso mais rápido e focado à ferramenta, eliminando a necessidade de manter uma aba de navegador aberta e proporcionando uma experiência mais integrada ao sistema operacional.
 
+![Screenshot do Gemini Desktop](https://private-user-images.githubusercontent.com/204406795/485391720-2528c2d4-24d1-49b1-9d0d-f8b18dc1b7b7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY5NDU1MTMsIm5iZiI6MTc1Njk0NTIxMywicGF0aCI6Ii8yMDQ0MDY3OTUvNDg1MzkxNzIwLTI1MjhjMmQ0LTI0ZDEtNDliMS05ZDBkLWY4YjE4ZGMxYjdiNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkwNFQwMDIwMTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNjMxNDllNzgwNDI4MTM2ZjhkMDYwNjgzNjkxNDkwMWJmMTJlZjYyM2MzMDIwZjkyYTAyMTlkYWM2ZjU4NTNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.hyQqmILST1QupIetTP3xPScantl6GnRJhbsO1Nhdopg)
+
 O desenvolvimento foi um exercício prático que explorou desde soluções leves com Python até a robustez do Electron, resultando em uma aplicação completa e distribuível.
 
 ## Funcionalidades
